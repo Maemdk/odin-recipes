@@ -13,8 +13,17 @@ h1 {
 }
 
 .text-content {
+    margin-top: 20px;
     margin-left: 15%;
     margin-right: 15%;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.062);
+}
+
+.text-holder {
+    margin: 0 20px 0 20px;
 }
 
 #finished-recipe-img {
